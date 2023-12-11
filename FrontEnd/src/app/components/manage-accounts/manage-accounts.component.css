@@ -1,0 +1,7 @@
+.page{
+  background-image: url('https://images.pexels.com/photos/164501/pexels-photo-164501.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 850px;
+  font-family: Arial, Helvetica, sans-serif;
+}

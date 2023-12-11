@@ -1,0 +1,22 @@
+
+.page{
+  background-image: url('https://www.thebanker.com/var/ezflow_site/storage/images/media/images/digital-currency-bank/12654475-1-eng-GB/Digital-currency-bank.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 850px;
+  /* font-family: 'Numans', sans-serif; */
+  font-family: Arial, Helvetica, sans-serif;
+}
+.card {
+  margin-left: -41px;
+  width: 110%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: 0.25rem;
+}
